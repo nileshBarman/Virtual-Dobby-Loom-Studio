@@ -1,0 +1,6 @@
+{
+  "name": "Virtual Dobby Loom Studio",
+  "description": "Professional virtual dobby loom studio for handloom weavers, textile designers, and students to create dobby designs, lifting plans, simulate weaving, and preview woven fabrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
